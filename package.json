@@ -2,7 +2,7 @@
   "name": "workshop-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/royeeshemesh/workshop-react",
+  "homepage": "https://royeeshemesh.github.io/workshop-react",
   "dependencies": {
     "bootstrap": "3",
     "classnames": "^2.2.5",

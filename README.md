@@ -1,1 +1,1 @@
-Demo available [here](https://github.com/royeeshemesh/workshop-react/)
+Demo available [here](https://royeeshemesh.github.io/workshop-react)
